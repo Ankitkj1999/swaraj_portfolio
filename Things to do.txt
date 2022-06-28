@@ -1,0 +1,6 @@
+1. First i want to put a bg img 
+2. And in about section how to attach cv in downlaod cv option
+3. In education space is too much how to reduced
+4. I want to add online course that i have done and certificates how to do ?
+5. How to aling the project section in well maner and also attached github links for that.
+6. How to add social media icons on the top.
